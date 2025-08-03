@@ -28,3 +28,11 @@ Team logos are merged with match schedules based on team IDs.
 🧪 Modern SwiftUI Patterns
 Property wrappers like @StateObject, @Binding, @FocusState.
 Use of onReceive, onChange, and Combine for reactive data flow.
+<img width="320" height="680" src="https://github.com/user-attachments/assets/a0b96a42-a3d5-49c6-bd6a-ae198a2b3d56" />
+<img width="320" height="680" src="https://github.com/user-attachments/assets/3568d702-2301-4212-83dc-713cb17a92af" />
+<img width="320" height="680" src="https://github.com/user-attachments/assets/bf9a5038-bf83-4ab1-9014-c9f78f00add3" />
+<img width="320" height="680" src="https://github.com/user-attachments/assets/e4db4da6-ce02-4363-ae16-9a708c8ee395" />
+<img width="320" height="680" src="https://github.com/user-attachments/assets/c0050528-54af-45d1-a916-78f6cb5ae1e9" />
+
+
+
